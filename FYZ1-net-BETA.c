@@ -468,8 +468,8 @@ try:
 				main()
 		else:
 			print ("[*] Sorry you said false information... .")
-                    print ("[*] Pending Request...")
-                    print ("[*] we are now Exiting you out of FYZ1 net made by @prelaxisity")
+                        print ("[*] Pending Request")
+                        print ("[*] we are now Exiting you out of FYZ1 net made by @prelaxisity")
 			exit()
 	if user == "root":
 		if password == passwords[1]:
@@ -486,9 +486,9 @@ try:
 				print ("\n[anime] Ctrl-C Has Been Pressed.")
 				main()
 		else:
-			print ("[*] Sorry you said false information... .")
-                    print ("[*] Pending Request...")
-                    print ("[*] we are now Exiting you out of FYZ1 net made by @prelaxisity")
+			print ("[*] Sorry something you did was not right.")
+                        print ("[*] Pending Request")
+                        print ("[*] we are now Exiting you out of FYZ1 net made by @prelaxisity")
 			exit()
 except KeyboardInterrupt:
 	exit()
