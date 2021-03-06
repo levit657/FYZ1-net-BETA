@@ -443,9 +443,9 @@ try:
 		user = username
 	else:
 		print ("[*] Sorry you said false information... .")
-                    print ("[*] Pending Request...")
-                    print ("[*] we are now Exiting you out of FYZ1 net made by @prelaxisity")
-			exit()
+                print ("[*] Pending Request...")
+                print ("[*] we are now Exiting you out of FYZ1 net made by @prelaxisity")
+                exit()
 except KeyboardInterrupt:
 	print ("\nCtrl-C Has Been Pressed.")
 	exit()
